@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+
+.list-item {
+  margin-top: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500px;
+  color: #12022f;
+}
+
+.date {
+  font-size: 16x;
+  font-family: Roboto;
+  color: #616e7c;
+  font-weight: 500;
+}
+
+.description {
+  font-size: 16x;
+  font-family: Roboto;
+  color: #616e7c;
+  font-weight: 500;
+}
+
+hr {
+  border: 1px solid #9aa5b1;
+}
